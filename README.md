@@ -1,4 +1,4 @@
-### Ola eu sou Lucas 👋🏻
+### Ola eu sou o Lucas 👋🏻
 <p>Oi! Eu sou o Lucas, um estudante de programação cursando Análise e Desenvolvimento de Sistemas. Desde pequeno, sempre fui apaixonado por tecnologia. Adoro descobrir como as coisas funcionam e me perco em novos projetos de programação.
 
 Além dos estudos, meu hobby favorito é jogar games. Eu gosto de explorar diferentes universos e histórias, e sempre que posso, aprendo algo novo sobre design e estratégia enquanto jogo.
