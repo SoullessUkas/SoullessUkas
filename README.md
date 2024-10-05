@@ -31,7 +31,7 @@ Estou sempre em busca de novas oportunidades para aprender, seja participando de
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoullessUkas&hide_progress=true)
+
 
 ### Tecnologias principais
 
