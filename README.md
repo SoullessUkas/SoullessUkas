@@ -8,7 +8,7 @@ Estou sempre em busca de novas oportunidades para aprender, seja participando de
 
 <div style="display: inline-block">
 <a href="https://www.linkedin.com/in/lucas-almeida-miranda?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align ="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@uk4ss?_t=8qFJ8OJwxXx&_r=1"><img align ="center" alt="Java" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+
 
  
 
